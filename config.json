@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routersalidate",
+        "uuid": 288866,
+        "checksum": "yrvl8s5"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
